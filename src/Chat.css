@@ -1,0 +1,6 @@
+.chat {
+        /* Take 65% of the screen(parent's 100% ki 65%) (divided as column) */
+    display: flex;
+    flex-direction: column;
+    flex: 0.65;
+}
